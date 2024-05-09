@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746018546285",
+    "project_id": "body-evolution-gym",
+    "storage_bucket": "body-evolution-gym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746018546285:android:fada68b7b62621275e9564",
+        "android_client_info": {
+          "package_name": "com.example.appdeljj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqCLLFWd57C5_hwTi8XQaVzzJcYmkggg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746018546285:android:3acbaaf8564469ab5e9564",
+        "android_client_info": {
+          "package_name": "com.example.flutterjs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqCLLFWd57C5_hwTi8XQaVzzJcYmkggg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
